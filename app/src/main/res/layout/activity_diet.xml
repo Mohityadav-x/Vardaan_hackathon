@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:fitsSystemWindows="true"
+    android:background="@drawable/pink">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <!-- Title -->
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text=" Healthy Diet"
+            android:textSize="28sp"
+            android:textColor="#680732"
+            android:fontFamily="@font/poppins_bold"
+            android:layout_margin="20dp"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="➢Morning (Empty Stomach):\n\n
+•Warm water + lemon \n
+•Soaked chia seeds"
+            android:layout_marginLeft="30dp"
+            android:textSize="20dp"
+            android:fontFamily="@font/poppins_regular">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="➢Breakfast (High Protein is key)
+Choose one:\n\n•Vegetable omelette + 1 whole wheat toast
+Oats with nuts \n•Seeds
+Smoothie (spinach + banana + flax seeds + milk)"
+            android:layout_marginLeft="30dp"
+            android:textSize="20dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/poppins_regular">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="➢Mid-Morning Snack:\n\n
+•1 fruit (apple / guava / pear)
+Handful of almonds or walnuts"
+            android:layout_marginLeft="30dp"
+            android:textSize="20dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/poppins_regular">
+
+        </TextView>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="➢Lunch (Balanced meal):\n\n
+•1–2 roti (multigrain) OR small portion of brown rice\n
+•Lots of vegetables (sabzi or salad 🥗)/paneer/chicken\n
+•Curd (good for gut health)"
+            android:layout_marginLeft="30dp"
+            android:textSize="20dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/poppins_regular">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="➢Evening Snack:\n\n
+•Green tea / herbal tea\n
+•Sprouts chaat"
+            android:layout_marginLeft="30dp"
+            android:textSize="20dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/poppins_regular">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="➢Dinner (Light and Early):\n\n
+•Vegetable soup + paneer/chicken\n
+•1–2 roti + sabzi\n
+•Avoid heavy carbs at nightt"
+            android:layout_marginLeft="30dp"
+            android:textSize="20dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/poppins_regular"/>
+
+    </LinearLayout>
+</ScrollView>
