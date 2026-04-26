@@ -1,10 +1,11 @@
 # Vardaan_hackathon
-<img width="1080" height="2340" alt="Screenshot_20260424_234219" src="https://github.com/user-attachments/assets/420a1ecb-675c-4276-9532-9eda33e32897" />
-<img width="1080" height="2340" alt="Screenshot_20260424_234148" src="https://github.com/user-attachments/assets/d2424000-3572-4bd1-9b6d-9b9ac268b0f4" />
-<img width="1080" height="2340" alt="Screenshot_20260424_234110" src="https://github.com/user-attachments/assets/cbe7c787-22fd-4634-a69e-c7bc85378928" />
-<img width="1080" height="2340" alt="Screenshot_20260424_234340" src="https://github.com/user-attachments/assets/a6657d09-9935-4119-b6ea-15697aaf8721" />
-<img width="1080" height="2340" alt="Screenshot_20260424_234317" src="https://github.com/user-attachments/assets/95b3c2ec-ab20-471e-b2fb-31541db3032a" />
-<img width="1080" height="2340" alt="Screenshot_20260424_234248" src="https://github.com/user-attachments/assets/1e4432da-91af-4a4f-a9c3-4314e86ea1cc" />
-<img width="1080" height="2340" alt="Screenshot_20260424_234236" src="https://github.com/user-attachments/assets/30873d0e-1bc2-424f-a96a-64c6beda8c79" />
-<img width="1080" height="2340" alt="Screenshot_20260424_234219" src="https://github.com/user-attachments/assets/fe64ea6b-05ff-465b-9380-64582181e612" />
-<img width="1080" height="2340" alt="Screenshot_20260424_234201" src="https://github.com/user-attachments/assets/8b14d17e-8f2b-48fd-be66-ce40c7ddeb45" />
+<img width="1080" height="2340" alt="splash" src="https://github.com/user-attachments/assets/e18aae0a-2e01-451a-8499-9e3078cddc3a" />
+<img width="1080" height="2340" alt="login" src="https://github.com/user-attachments/assets/2dd936bb-5482-4741-ae88-2b73c5b3825b" />
+<img width="1080" height="2340" alt="home" src="https://github.com/user-attachments/assets/ecf5a6a3-1714-468a-8e35-e243fdb4565d" />
+<img width="1080" height="2340" alt="tracker" src="https://github.com/user-attachments/assets/d1398cc5-8ee5-4fb0-95aa-03089ac04031" />
+<img width="1080" height="2340" alt="symptoms" src="https://github.com/user-attachments/assets/dd80a14c-883c-4e45-9f88-22a0894684b3" />
+<img width="1080" height="2340" alt="symptoms high" src="https://github.com/user-attachments/assets/56daf276-22bb-445a-90b3-5b427474f007" />
+<img width="1080" height="2340" alt="diet" src="https://github.com/user-attachments/assets/e2d20588-e01f-4d32-84e5-5437a5c2007f" />
+<img width="1080" height="2340" alt="yoga" src="https://github.com/user-attachments/assets/7cc5eb5b-3d8a-43c0-af7e-0ce9d3cd9909" />
+<img width="1080" height="2340" alt="doctor" src="https://github.com/user-attachments/assets/de09bd51-ba29-4f30-80b9-c350e974022b" />
+
